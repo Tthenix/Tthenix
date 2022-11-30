@@ -1,4 +1,4 @@
-<h1 align="center">Welcome 👋, I'm Nahuel Quiroga</h1> ![github](https://user-images.githubusercontent.com/80957556/204933509-6ae58270-793a-4989-a499-69276a4cdd71.gif)
+<h1 align="center">Welcome 👋, I'm Nahuel Quiroga</h1>![github](https://user-images.githubusercontent.com/80957556/204933509-6ae58270-793a-4989-a499-69276a4cdd71.gif)
 
 <h3 align="center">High school student, Junior web develope r specializing in Frontend development.Well-versed in many languages including Html, CSS, JavaScript, Python</h3>
 
