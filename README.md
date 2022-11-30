@@ -1,5 +1,6 @@
 <h1 align="center">Welcome 👋, I'm Nahuel Quiroga</h1>
 <h3 align="center">High school student, Junior web develope r specializing in Frontend development.Well-versed in many languages including Html, CSS, JavaScript, Python</h3>
+![](name-of-giphy.gif)
 
 - 🔭 I’m currently working on my business **Dschool**
 
