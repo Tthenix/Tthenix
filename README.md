@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nahuel quiroga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahuel quiroga" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nahuel-quiroga-06287122a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahuel-quiroga-06287122a/" height="30" width="40" /></a>
 <a href="https://instagram.com/nahuelfacundox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nahuelfacundox" height="30" width="40" /></a>
 <a href="https://discord.gg/TtheNix#0549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TtheNix#0549" height="30" width="40" /></a>
 </p>
@@ -21,3 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tthenix&show_icons=true&locale=en" alt="tthenix" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tthenix&" alt="tthenix" /></p>
