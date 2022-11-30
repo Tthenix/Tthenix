@@ -1,6 +1,5 @@
 <h1 align="center">Welcome 👋, I'm Nahuel Quiroga</h1>
 <h3 align="center">High school student, Junior web develope r specializing in Frontend development.Well-versed in many languages including Html, CSS, JavaScript, Python</h3>
-<img src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fgist.github.com%2Fbcbbb9c2fd8c477027617a67e0ec812f&psig=AOvVaw0wxWIhuwmo7T4v5K55_ZEA&ust=1669938581567000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIC97ZCM1_sCFQAAAAAdAAAAABAd" alt="figma" width="40" height="40"/>
 
 - 🔭 I’m currently working on my business **Dschool**
 
