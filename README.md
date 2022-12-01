@@ -1,7 +1,6 @@
 <h1 align="center">Welcome 👋, I'm Nahuel Quiroga</h1>
 <h3 align="center">High school student, Junior web develope r specializing in Frontend development.Well-versed in many languages including Html, CSS, JavaScript, Python</h3>
-![github](https://user-images.githubusercontent.com/80957556/204933786-42cb03ae-5fe0-4393-b27d-0f7b9047e9cb.gif)
-
+![1098889_roanimations_kid-goku-gif](https://user-images.githubusercontent.com/80957556/204933814-4ea71d15-bd47-438c-a1fd-8bf9c4a6db8e.gif)
 - 🔭 I’m currently working on my business **Dschool**
 
 - 🌱 I’m currently learning **React native and Django**
