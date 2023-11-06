@@ -1,5 +1,5 @@
 <h1 align="center">Welcome 👋, I'm Nahuel Quiroga</h1>
-<h3 align="center">High school student, Junior web developer specializing in Frontend development.Well-versed in many languages including Html, CSS, JavaScript, Python</h3>
+<h3 align="center">Junior web developer specializing in Frontend development.Well-versed in many languages including Html, CSS, JavaScript, Python</h3>
 
 - 🔭 I’m currently working on my business **Dschool**
 
