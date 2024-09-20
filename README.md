@@ -1,22 +1,95 @@
-<h1 align="center">Welcome 👋, I'm Nahuel Quiroga</h1>
-<h3 align="center">Junior web developer specializing in Frontend development.Well-versed in many languages including Html, CSS, JavaScript, Python</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nahuel Quiroga!" />
+</h1>
 
-- 🔭 I’m currently working on my business **Dschool**
+<h3 align="center">A passionate Informatic Enginner student with a solid foundation in C++ and Python</h3>
 
-- 🌱 I’m currently learning **React native and Django**
+<img src="https://github.com/tthenix/tthenix/blob/main/2nd%20arrow.gif">
 
-- 📫 How to reach me **nahuelfacundox@gmail.com**
+<p align="center"><a href="https://github.com/c2-tlhah"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nahuel-quiroga-06287122a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahuel-quiroga-06287122a/" height="30" width="40" /></a>
-<a href="https://instagram.com/nahuelfacundox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nahuelfacundox" height="30" width="40" /></a>
-<a href="https://discord.gg/TtheNix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TtheNix#0549" height="30" width="40" /></a>
-</p>
+### 💻 Expertise and Interests
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- **Proficient in:** C++ and Python, mastering data engineering and data science.
+- **Skills:** Data analysis, visualization, and big data handling.
+- **Focused on:** Expanding expertise in Python for data science and big data applications.
+- **Exploring:** Artificial Intelligence and Machine Learning using Spark.
+- **Connect:** Feel free to reach out for collaborations or discussions!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tthenix&show_icons=true&locale=en&layout=compact" alt="tthenix" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tthenix&show_icons=true&locale=en" alt="tthenix" /></p>
+
+<img src="https://github.com/tthenix/tthenix/blob/main/2nd%20arrow.gif">
+
+### 🌐 Connect with Me
+
+<div align="center">
+    <a href="https://linkedin.com/in/nahuel-quiroga-06287122a/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://instagram.com/nahuelfacundox" target="_blank">
+        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="nahuelfacundox@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://nixportfolio" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox&logoColor=white" alt="Visit my portfolio here: o21ex.me">
+    </a>
+</div>
+
+<img src="https://github.com/tthenix/tthenix/blob/main/2nd%20arrow.gif">
+
+### 🐍 GitHub Contributions
+
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tthenix/tthenix/blob/output/github-contribution-grid-snake.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github.com/tthenix/tthenix/blob/output/github-contribution-grid-snake.svg" />
+        <img alt="github-snake" src="https://github.com/tthenix/tthenix/blob/output/github-contribution-grid-snake.svg" />
+    </picture>
+</div>
+
+<img src="https://github.com/tthenix/tthenix/blob/main/2nd%20arrow.gif">
+
+### ⚒️ Tools and Technologies
+
+<div align="center">
+   
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
+<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+
+
+
+</div>
+
+<img src="https://github.com/tthenix/tthenix/blob/main/2nd%20arrow.gif">
+
+### 📊 GitHub Stats
+
+<div align="center">
+    <img width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=tthenix&count_private=true&theme=react&border_radius=10&background=1F2937&stroke=000000&ring=10B981&fire=F59E0B&currStreakLabel=E5E7EB&sideNums=10B981&currStreakNum=3B82F6&dates=9CA3AF&sideLabels=F3F4F6" alt="c2-tlhah streak stats"/>
+    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=tthenix&count_private=true&show_icons=true&theme=react&border_radius=10&background=1F2937&icon_color=3B82F6&title_color=10B981&text_color=9CA3AF" alt="tthenix stats"/>
+</div>
+
+<img src="https://github.com/tthenix/tthenix/blob/main/2nd%20arrow.gif">
+
+### 🛠️ Contribution Activity
+
+<div align="center">
+      <img width="1000" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tthenix&theme=vue&background=1F2937" alt="Contribution Activity"/>
+    <br/>
+    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=tthenix&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&background=1F2937&title_color=10B981&text_color=9CA3AF" alt="Top Languages"/>
+</div>
+
+<img src="https://github.com/tthenix/tthenix/blob/main/2nd%20arrow.gif">
