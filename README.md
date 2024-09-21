@@ -2,21 +2,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nahuel+Quiroga!" />
 </h1>
 
-<h3 align="center">A passionate Informatic Enginner student with a solid foundation in C++ and Python</h3>
+<h3 align="center">A passionate Informatic Enginner student passionate about web developer, game developer and embedded systems developer.</h3>
 
 <img src="https://github.com/tthenix/tthenix/blob/main/2nd%20arrow.gif">
 
 <p align="center"><a href="https://github.com/c2-tlhah"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
 
-### 💻 Expertise and Interests
-
-- **Proficient in:** C++ and Python, mastering data engineering and data science.
-- **Skills:** Data analysis, visualization, and big data handling.
-- **Focused on:** Expanding expertise in Python for data science and big data applications.
-- **Exploring:** Artificial Intelligence and Machine Learning using Spark.
 - **Connect:** Feel free to reach out for collaborations or discussions!
-
-
 
 <img src="https://github.com/tthenix/tthenix/blob/main/2nd%20arrow.gif">
 
@@ -31,9 +23,6 @@
     </a>
     <a href="nahuelfacundox@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-    <a href="https://nixportfolio" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox&logoColor=white" alt="Visit my portfolio here: o21ex.me">
     </a>
 </div>
 
@@ -54,8 +43,6 @@
 ### ⚒️ Tools and Technologies
 
 <div align="center">
-   
-
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -68,15 +55,10 @@
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-
-
-
 </div>
-
 <img src="https://github.com/tthenix/tthenix/blob/main/2nd%20arrow.gif">
 
 ### 📊 GitHub Stats
-
 <div align="center">
     <img width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=tthenix&count_private=true&theme=react&border_radius=10&background=1F2937&stroke=000000&ring=10B981&fire=F59E0B&currStreakLabel=E5E7EB&sideNums=10B981&currStreakNum=3B82F6&dates=9CA3AF&sideLabels=F3F4F6" alt="c2-tlhah streak stats"/>
     <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=tthenix&count_private=true&show_icons=true&theme=react&border_radius=10&background=1F2937&icon_color=3B82F6&title_color=10B981&text_color=9CA3AF" alt="tthenix stats"/>
@@ -85,7 +67,6 @@
 <img src="https://github.com/tthenix/tthenix/blob/main/2nd%20arrow.gif">
 
 ### 🛠️ Contribution Activity
-
 <div align="center">
       <img width="1000" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tthenix&theme=vue&background=1F2937" alt="Contribution Activity"/>
     <br/>
