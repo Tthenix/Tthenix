@@ -23,16 +23,16 @@
 ### 🌐 Connect with Me
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/muhammad-talha-ramzan" target="_blank">
+    <a href="https://linkedin.com/in/nahuel-quiroga-06287122a/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://www.instagram.com/o21tlha" target="_blank">
+    <a href="https://instagram.com/nahuelfacundox" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
-    <a href="mailto:c2.tlhah@gmail.com">
+    <a href="nahuelfacundox@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href="https://o21ex.me" style="text-decoration: none;">
+    <a href="https://nixportfolio" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox&logoColor=white" alt="Visit my portfolio here: o21ex.me">
     </a>
 </div>
